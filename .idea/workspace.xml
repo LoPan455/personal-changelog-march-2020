@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4cc9290-3969-4134-8467-38421f8bb106" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YbHnm6iqbBLvhfT9lp2Lld6wxM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.xslt" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4cc9290-3969-4134-8467-38421f8bb106" name="Default Changelist" comment="" />
+      <created>1583204542184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583204542184</updated>
+      <workItem from="1583204545008" duration="1647000" />
+      <workItem from="1583464365899" duration="637000" />
+    </task>
+    <task id="LOCAL-00001" summary="3-2-2020">
+      <created>1583204760522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583204760522</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3-2-2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="3-2-2020" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="808" y="240" key="CommitChangelistDialog2" timestamp="1583204760364">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="808" y="240" key="CommitChangelistDialog2/-2560.-12.2560.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1583204760364" />
+    <state x="880" y="467" key="Vcs.Push.Dialog.v2" timestamp="1583204761951">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="880" y="467" key="Vcs.Push.Dialog.v2/-2560.-12.2560.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1583204761951" />
+    <state x="927" y="512" key="git4idea.merge.GitPullDialog" timestamp="1583464474939">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="927" y="512" key="git4idea.merge.GitPullDialog/-2560.-12.2560.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1583464474939" />
+    <state x="710" y="458" width="1141" height="565" key="new project wizard" timestamp="1583237075778">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="710" y="458" width="1141" height="565" key="new project wizard/-2560.-12.2560.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1583237075778" />
+  </component>
+</project>
