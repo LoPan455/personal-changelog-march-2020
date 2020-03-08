@@ -23,4 +23,29 @@
 ###:computer:
 * Completed Pluralsight's "Programming with Types" video module
 
+## Friday, March 6th
+
+###:computer:
+* Attended workshop on Intro to Threads and Multithreading Java Applications
+
+### :triumph:
+* Group workout @ Uptown Fitness
+
+
+## Saturday, March 6th
+
+###:computer:
+* Completed Pluralsight's "Companion Objects" video module
+
+### :triumph:
+* Group workout @ Uptown Fitness
+
+## Sunday March 7th
+* Completed Pluralsight's "Design Patterns in Java: Creational - Singleton Pattern" with personal git [repo](https://github.com/LoPan455/design-patterns) to follow along
+
+
+
+
+
+
 
